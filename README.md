@@ -25,7 +25,7 @@ You can see the live demo here:
 ## 📝 How It Works
 
 The card displays a birthday message like:
-
+<img width="1895" height="862" alt="Image" src="https://github.com/user-attachments/assets/7fe74ae6-5b7c-4bbd-8c7e-dbaf83f810b3" />
 
 ---
 
