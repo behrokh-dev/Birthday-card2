@@ -16,7 +16,11 @@ You can see the live demo here:
 
 The card displays a birthday message like:
 <img width="1895" height="862" alt="Image" src="https://github.com/user-attachments/assets/7fe74ae6-5b7c-4bbd-8c7e-dbaf83f810b3" />
+
+-
 <img width="1895" height="868" alt="Image" src="https://github.com/user-attachments/assets/fd5ff318-5afd-4c79-af7c-8c81b16adea0" />
+-
+
 <img width="1897" height="862" alt="Image" src="https://github.com/user-attachments/assets/74921aa1-ec0e-46fb-88e4-bc230cea0ae7" />
 
 ---
